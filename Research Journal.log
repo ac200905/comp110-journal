@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.11.9)  13 NOV 2017 11:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.11.9)  15 NOV 2017 02:51
 entering extended mode
 **"./Research Journal.tex"
 ("Research Journal.tex"
@@ -296,7 +296,7 @@ File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
 \Gin@req@height=\dimen116
 \Gin@req@width=\dimen117
 )
-No file "Research Journal".aux.
+("Research Journal.aux")
 \openout1 = `"Research Journal.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
@@ -315,6 +315,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 29.
 LaTeX Font Info:    ... okay on input line 29.
 \AtBeginShipoutBox=\box30
 Package hyperref Info: Link coloring OFF on input line 29.
+
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
@@ -326,6 +327,8 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 29.
 LaTeX Info: Redefining \pageref on input line 29.
 LaTeX Info: Redefining \nameref on input line 29.
+
+("Research Journal.out") ("Research Journal.out")
 \@outlinefile=\write3
 \openout3 = `"Research Journal.out"'.
 
@@ -356,45 +359,82 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-No file "Research Journal".bbl.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 66.
+Overfull \hbox (0.64334pt too wide) in paragraph at lines 38--38
+\OT1/cmr/m/n/10.95 When Tur-ing wrote "Com-put-ing Ma-chin-ery and In-tel-li-ge
+nce" [[]1[]], no Ar-ti-fi-cial
+ []
+
+
+Overfull \hbox (5.54044pt too wide) in paragraph at lines 39--39
+\OT1/cmr/m/n/10.95 pro-duc-ing human-like in-tel-li-gence in com-put-ers, hand 
+cod-ing ev-ery con-ceiv-able
+ []
+
+
+Overfull \hbox (3.3402pt too wide) in paragraph at lines 40--40
+\OT1/cmr/m/n/10.95 check-ers. It may be less com-pli-cated a game com-pared wit
+h chess, nonethe-less,
+ []
+
+
+Overfull \hbox (2.68121pt too wide) in paragraph at lines 40--40
+\OT1/cmr/m/n/10.95 this shows the fore-sight of Tur-ing when in his pa-per he c
+on-cludes by sug-gest-ing
+ []
+
 [1
 
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 66.
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+
+("Research Journal.bbl" [3]
+Underfull \hbox (badness 4108) in paragraph at lines 48--51
+[]\OT1/cmr/m/n/10.95 L. A. Such-man, \OT1/cmr/m/it/10.95 Plans and sit-u-ated a
+c-tions: The prob-lem of
+ []
+
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no î in font cmr10!
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 79.
+ [4]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 79.
  ("Research Journal.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 66.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 66.
-
-
-Package rerunfilecheck Warning: File `"Research Journal".out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `"Research Journal".out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  725B48E13F0E392583EA0E400A3A2F8F;274.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 66.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 79.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 79.
+Package rerunfilecheck Info: File `"Research Journal".out' has not changed.
+(rerunfilecheck)             Checksum: 1DEAE1B43336ACC91253BD4749268260;296.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 79.
  )
 (\end occurred inside a group at level 1)
 
 ### semi simple group (level 1) entered at line 8 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 7732 strings out of 493323
- 123606 string characters out of 3139063
- 305793 words of memory out of 3000000
- 11223 multiletter control sequences out of 15000+200000
- 6785 words of font info for 25 fonts, out of 3000000 for 9000
+ 7778 strings out of 493323
+ 124452 string characters out of 3139063
+ 307167 words of memory out of 3000000
+ 11249 multiletter control sequences out of 15000+200000
+ 7131 words of font info for 26 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,6n,51p,8831b,2412s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,6n,51p,8831b,2514s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr
 10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C
-:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb>
-Output written on "Research Journal.pdf" (1 page, 37114 bytes).
+:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Prog
+ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on "Research Journal.pdf" (4 pages, 75166 bytes).
 PDF statistics:
- 31 PDF objects out of 1000 (max. 8388607)
- 8 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 83 PDF objects out of 1000 (max. 8388607)
+ 19 named destinations out of 1000 (max. 500000)
+ 49 words of extra memory for PDF output out of 10000 (max. 10000000)
 
