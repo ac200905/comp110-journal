@@ -1,27 +1,32 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.11.9)  17 NOV 2017 00:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.11.17)  17 NOV 2017 14:39
 entering extended mode
 **./comp110_2_1703170.tex
 (comp110_2_1703170.tex
 LaTeX2e <2017-04-15>
 Babel <3.10> and hyphenation patterns for 75 language(s) loaded.
-(C:\Users\Adrian\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\scrartcl.cls
+
+(C:\Users\ac200905\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\scrartcl.cl
+s
 Document Class: scrartcl 2017/09/07 v3.24 KOMA-Script document class (article)
-(C:\Users\Adrian\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\scrkbase.sty
+
+(C:\Users\ac200905\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\scrkbase.st
+y
 Package: scrkbase 2017/09/07 v3.24 KOMA-Script package (KOMA-Script-dependent b
 asics and keyval usage)
 
-(C:\Users\Adrian\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\scrbase.sty
+(C:\Users\ac200905\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\scrbase.sty
 Package: scrbase 2017/09/07 v3.24 KOMA-Script package (KOMA-Script-independent 
 basics and keyval usage)
-
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-(C:\Users\Adrian\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\scrlfile.sty
+(C:\Users\ac200905\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\scrlfile.st
+y
 Package: scrlfile 2017/09/07 v3.24 KOMA-Script package (loading files)
 )))
-(C:\Users\Adrian\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\tocbasic.sty
+(C:\Users\ac200905\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\tocbasic.st
+y
 Package: tocbasic 2017/09/07 v3.24 KOMA-Script package (handling toc-files)
 \scr@dte@tocline@numberwidth=\skip41
 \scr@dte@tocline@numbox=\box26
@@ -39,12 +44,13 @@ Class scrartcl Info: File `scrsize11pt.clo' used instead of
 (scrartcl)           file `scrsize11.clo' to setup font sizes on input line 208
 0.
 
-(C:\Users\Adrian\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\scrsize11pt.c
-lo
+(C:\Users\ac200905\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\scrsize11pt
+.clo
 File: scrsize11pt.clo 2017/09/07 v3.24 KOMA-Script font size class option (11pt
 )
 )
-(C:\Users\Adrian\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\typearea.sty
+(C:\Users\ac200905\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\typearea.st
+y
 Package: typearea 2017/09/07 v3.24 KOMA-Script package (type area)
 \ta@bcor=\skip42
 \ta@div=\count79
@@ -167,7 +173,7 @@ Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4751.
 \c@Hy@tempcnt=\count91
 
-(C:\Users\Adrian\AppData\Roaming\MiKTeX\2.9\tex\latex\url\url.sty
+(C:\Users\ac200905\AppData\Roaming\MiKTeX\2.9\tex\latex\url\url.sty
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -204,12 +210,12 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip55
 )
-(C:\Users\Adrian\AppData\Roaming\MiKTeX\2.9\tex\latex\hyphenat\hyphenat.sty
+(C:\Users\ac200905\AppData\Roaming\MiKTeX\2.9\tex\latex\hyphenat\hyphenat.sty
 Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
 \langwohyphens=\language76
 LaTeX Info: Redefining \_ on input line 43.
 )
-(C:\Users\Adrian\AppData\Roaming\MiKTeX\2.9\tex\latex\setspace\setspace.sty
+(C:\Users\ac200905\AppData\Roaming\MiKTeX\2.9\tex\latex\setspace\setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
@@ -270,7 +276,7 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
 )
-(C:\Users\Adrian\AppData\Roaming\MiKTeX\2.9\tex\latex\cite\cite.sty
+(C:\Users\ac200905\AppData\Roaming\MiKTeX\2.9\tex\latex\cite\cite.sty
 LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 332.
 Package: cite 2015/02/27  v 5.5
@@ -333,7 +339,7 @@ LaTeX Info: Redefining \nameref on input line 29.
 \openout3 = `comp110_2_1703170.out'.
 
 
-(C:\Users\Adrian\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+(C:\Users\ac200905\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count112
 \scratchdimen=\dimen118
@@ -412,7 +418,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 92.
 ### bottom level 
 Here is how much of TeX's memory you used:
  7822 strings out of 493323
- 125238 string characters out of 3139063
+ 125298 string characters out of 3139056
  307649 words of memory out of 3000000
  11271 multiletter control sequences out of 15000+200000
  10244 words of font info for 37 fonts, out of 3000000 for 9000
@@ -422,7 +428,7 @@ Here is how much of TeX's memory you used:
 10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C
 :/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Prog
 ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on comp110_2_1703170.pdf (7 pages, 96337 bytes).
+Output written on comp110_2_1703170.pdf (7 pages, 96333 bytes).
 PDF statistics:
  128 PDF objects out of 1000 (max. 8388607)
  34 named destinations out of 1000 (max. 500000)
